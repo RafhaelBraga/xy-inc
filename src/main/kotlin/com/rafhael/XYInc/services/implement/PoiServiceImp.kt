@@ -21,7 +21,7 @@ class PoiServiceImp(val poiRepository: PoiRepository): PoiService {
         var listaFinal:MutableList<Poi>? =  mutableListOf()
         if (lista != null) {
             for(each in lista){
-                if(distanceBTP(each, poiDto)  <= poiDto.dmax!!){
+                if(distanceBTP(each, poiDto)  <= poiDto.dmax){
                     listaFinal?.add(each)
                 }
             }
