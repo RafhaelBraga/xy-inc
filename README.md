@@ -31,7 +31,7 @@ Abra o IntelliJ e clique na opção "Import Project", selecione "Import project 
 
 ![XYIncImport](https://user-images.githubusercontent.com/49730865/71595048-ef2af200-2b18-11ea-8a10-27920ac52f68.png)
 
-Após importar o projeto no IntelliJ, clique no botão "Run" na função "main" da classe "XyIncApplication".
+Após importar o projeto no IntelliJ, pressione "Ctrl+F9" (Build Project) e clique no botão "Run" na função "main" da classe "XyIncApplication".
 ![XYIncRun](https://user-images.githubusercontent.com/49730865/71594662-94dd6180-2b17-11ea-9d57-5982f0f52eff.png)
 
 
