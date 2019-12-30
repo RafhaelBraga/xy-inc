@@ -28,8 +28,8 @@ O projeto foi divido em pacotes para fins de organização:
 
 ## Exemplos de uso e teste
 
-Após importar o projeto no IntelliJ, clique no botão "Run" ou use o atalho "shift+F10".
-![XYIncRun](https://user-images.githubusercontent.com/49730865/71592068-8722de80-2b0d-11ea-8365-994c22a06e8d.png)
+Após importar o projeto no IntelliJ, clique no botão "Run" na função "main" da classe "XyIncApplication".
+![XYIncRun](https://user-images.githubusercontent.com/49730865/71594662-94dd6180-2b17-11ea-9d57-5982f0f52eff.png)
 
 
 Abra o Postman e clique no botão "Create a Request".
