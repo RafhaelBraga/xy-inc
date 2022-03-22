@@ -63,6 +63,12 @@ Com a finalidade de facilitar os testes, foi implementado um meio de deletar tod
 
 ## Autores
 
+<a href="https://br.linkedin.com/in/rafhael-braga" alt="linkedin" target="_blank">
+
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+
+</a> 
+
 Rafhael Menezes Braga – rafhaelmbraga@gmail.com
 
-[https://github.com/RafhaelBraga/xy-inc](https://github.com/RafhaelBraga/xy-inc)
+[https://github.com/RafhaelBraga/](https://github.com/RafhaelBraga/)
